@@ -14,5 +14,6 @@
 /.vscode/
 *.sln
 *.pyproj
+*.pyproj.user
 /bin/
 /obj/
