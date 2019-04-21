@@ -1,0 +1,18 @@
+# Junk
+.DS_Store
+*.suo
+*.swp
+
+# Git Merge files
+*.orig
+
+# Don't ignore .gitkeep files
+!.gitkeep
+
+# IDE metadata
+/.vs/
+/.vscode/
+*.sln
+*.pyproj
+/bin/
+/obj/
