@@ -1,6 +1,6 @@
 # coding=utf-8
 """
-onionscope.py - Sopel Module to read Horoscopes from The Onion
+onionscope.py - Sopel Module to read horoscopes from The Onion
 Copyright 2019, Natalie Fearnley
 
 http://sopel.chat
